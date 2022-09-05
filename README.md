@@ -16,9 +16,6 @@ python3 process_datasets.py
 Now, the processed datasets are in the `data` directory.
 
 ### 2. Reproduce the Results 
-To reproduce the results of CP, ComplEx and RESCAL with
-the ER regularizer on WN18RR, FB15k237 and YAGO3-10,
-please run the following commands.
 
 ```shell script
 #################################### WN18RR ####################################
